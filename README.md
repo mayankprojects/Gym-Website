@@ -1,5 +1,5 @@
 # Gym-Website
-##steps
+## steps
 1) CSS reset
 2) Set background image & bg-size:cover
 3) Set the position of left, right and mid element using position:absolute
